@@ -1,0 +1,5 @@
+# 字体设置
+font:
+  size: 16
+# 透明度设置
+window.opacity: 0.5
